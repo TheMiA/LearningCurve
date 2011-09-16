@@ -5,6 +5,6 @@ public class LearningCurve {
 		System.out.println("First example to Verean!");
 		System.out.println("Second commit!");
 		System.out.println("Hello!");
-		System.out.println("Verean Pull.");
+		System.out.println("Verean fetch.");
 	}
 }
